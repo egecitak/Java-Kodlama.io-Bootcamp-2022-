@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class AgricultureCreditManager {
+
+public class AgricultureCreditManager extends BaseCreditManager {
+
+
+
 }

@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class CustomerManager {
+
+public class CustomerManager extends PersonManager {
+
+
+
 }

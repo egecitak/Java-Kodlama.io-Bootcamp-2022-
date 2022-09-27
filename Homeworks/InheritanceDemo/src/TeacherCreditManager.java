@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class TeacherCreditManager {
+
+public class TeacherCreditManager extends BaseCreditManager {
+
 }
