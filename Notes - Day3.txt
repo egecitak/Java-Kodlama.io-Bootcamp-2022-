@@ -1,0 +1,11 @@
+Monolith - N-Layered Architecture:
+Data Access: access to the data.
+Business: codes about the business.
+UI: everything used by the user.
+There is an intermediate layer between UI and Business called API.
+
+JDBC
+Hibernate-ORM
+JPA
+
+Entities: database objects.
