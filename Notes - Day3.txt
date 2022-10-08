@@ -4,7 +4,7 @@ Business: codes about the business.
 UI: everything used by the user.
 There is an intermediate layer between UI and Business called API.
 
-- If a layer access another layer's class, it should only connect through the
+- If a layer needs access to another layer's class, it should only connect through the
 interface (except entities).
 
 JDBC
